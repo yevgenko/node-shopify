@@ -33,7 +33,7 @@ For more information and detailed documentation about the API visit
     before you instantiate it:
 
     ```javascript
-    var express = require('sys')
+    var express = require('util')
       , shopify = require('shopify');
 
     var session = new shopify.Session(
